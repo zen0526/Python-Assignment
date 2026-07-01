@@ -1,0 +1,29 @@
+alex,Classic Beef Burger - RM10.00,Receipted
+elena,French Fries - RM5.00,Receipted
+Heng,Ice Lemon Tea - RM2.50,Receipted
+Heng,French Fries - RM5.00,Receipted
+Heng,Steak - RM20.00,Receipted
+Heng,Classic Beef Burger - RM10.00,Receipted
+Anson,Roast Chicken - RM15.00,Receipted
+Anson,Coca-Cola - RM2.50,Receipted
+Anson,Salad - RM2.50,Receipted
+Anson,Nuggets (6 pcs) - RM8.00,Receipted
+Heng,Ice Lemon Tea - RM2.50,Receipted
+Heng,French Fries - RM5.00,Receipted
+Heng,Classic Beef Burger - RM10.00,Receipted
+Heng,Double Beef Burger - RM15.00,Receipted
+Anson,Coca-Cola - RM2.50,Receipted
+Anson,Nuggets (6 pcs) - RM8.00,Receipted
+Anson,Salad - RM2.50,Receipted
+Anson,Cheese Burger - RM12.00,Receipted
+Heng,Steak - RM20.00,Receipted
+Heng,Roast Chicken - RM15.00,Receipted
+Heng,Ice Lemon Tea - RM2.25,Receipted
+Heng,Ice Lemon Tea - RM2.25,Receipted
+Heng,Classic Beef Burger - RM9.00,Receipted
+Heng,Ice Lemon Tea - RM2.25,Receipted
+Heng,Classic Beef Burger - RM9.00,Receipted
+Heng,French Fries - RM4.75,Receipted
+Heng,Ice Lemon Tea - RM2.25,Receipted
+Heng,Classic Beef Burger - RM9.00,Receipted
+Heng,French Fries - RM4.75,Receipted

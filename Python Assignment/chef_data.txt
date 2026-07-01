@@ -1,0 +1,46 @@
+
+# ingredients_required
+Classic Beef Burger | beef patty:1.0, bun:2.0, onion:0.5
+Cheese Burger | beef patty:0.5, cheese:0.8, bun:2.0
+Double Beef Burger | beef patty:2.0, bun:1.0, lettuce:0.5
+French Fries | patato:0.5, salt:0.1, black pepper:0.2
+Nuggets (6 pcs) | chicken:0.2, breadcrumbs:0.2, oil:0.2
+Salad | lettuce:0.7, kale:0.6, avocado:0.5, cheese:0.5, dressing:0.5
+Steak | beef:1.0, salt:0.1, black pepper:0.1
+Bacon Pizza | tomato sauce:0.3, bacon:1.5, cheese:0.5
+Roast Chicken | chicken:1.0, pepper:0.5, olive oil:0.1, onion:0.5
+Coca-Cola | coca-cola:1.0
+Sprite | sprite:1.0
+Ice Lemon Tea | tea:0.5, lemon:0.5, sugar:0.2
+Mineral Water | mineral water:1.0
+
+# inventory
+beef patty: 20.0, 2.0
+beef: 0.0, 8.0
+pepper: 3.0, 0.6
+bun: 18.0, 0.7
+patato: 6.0, 0.7
+salt: 2.0, 0.2
+black pepper: 2.0, 0.3
+lettuce: 6.0, 0.5
+breadcrumbs: 2.0, 0.5
+oil: 0.0, 0.6
+kale: 3.0, 0.9
+avocado: 4.0, 1.4
+cheese: 5.0, 1.6
+dressing: 2.0, 1.0
+tomato sauce: 6.0, 0.7
+bacon: 6.0, 1.8
+chicken: 10.0, 3.0
+olive oil: 3.0, 1.1
+onion: 5.0, 0.8
+coca-cola: 10.0, 1.0
+sprite: 8.0, 1.0
+mineral water: 10.0, 0.8
+tea: 4.0, 0.6
+honey lemon: 10.0, 0.4
+
+
+sugar: 3.0, 0.3
+
+# equipment_reports

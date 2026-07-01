@@ -1,0 +1,21 @@
+[Burgers]
+B001 | Classic Beef Burger       | 10.00
+B002 | Cheese Burger             | 12.00
+B003 | Double Beef Burger        | 15.00
+
+[Sides]
+S001 | French Fries              |  5.00
+S002 | Nuggets (6 pcs)           |  8.00
+S003 | Salad                     |  2.50
+
+[Mains & Specials]
+M001 | Steak                     | 20.00
+M002 | Bacon Pizza               | 18.00
+M003 | Roast Chicken             | 15.00
+
+[Drinks]
+D001 | Coca-Cola                 |  2.50
+D002 | Sprite                    |  2.50
+D003 | Ice Lemon Tea             |  2.50
+D004 | Mineral Water             |  1.50
+

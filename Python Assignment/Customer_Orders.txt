@@ -1,0 +1,4 @@
+Heng,Mineral Water,1.50,New
+Heng,Ice Lemon Tea,2.25,Receipted
+Heng,Classic Beef Burger,9.00,New
+Heng,Steak,19.00,New

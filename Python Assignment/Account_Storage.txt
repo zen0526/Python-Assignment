@@ -1,0 +1,8 @@
+loh wen bin,password,Customer
+Chia,052607,Manager
+Heng,135790,Customer
+Anson,123456789,Customer
+Miya,1122334455,Cashier
+Jiaqi,123123123,Chef
+Ken,1234567,Customer
+Jack,321321,Chef
